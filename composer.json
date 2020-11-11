@@ -37,7 +37,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Khusainov\\SuperModule\\": "packages/khusainov/supermodule/src"
+            "Khusainov\\SuperModule\\": "packages/khusainov/SuperModule/src"
         }
     },
     "autoload-dev": {
